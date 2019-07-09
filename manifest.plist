@@ -33,15 +33,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>conti.helloworld</string>
+                <string>com.continental.Event2SmartX1</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>HelloWorld</string>
+                <string>MA EDASH</string>
                 <key>title</key>
-                <string>HelloWorld</string>
+                <string>MA EDASH</string>
             </dict>
         </dict>
     </array>
